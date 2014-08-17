@@ -1,0 +1,13 @@
+body { 
+	background-color: #F5674F;
+	color: #fff8cb; }
+
+h1, h2, h3, h4, h5, h6, p {color: #fff8cb;}
+
+p, li {font-size:20px;}
+
+h1 {font-size:70px;}
+
+.spacer {height:50px;}
+
+a:hover, a:visited, a {color: #66FFFF;}
